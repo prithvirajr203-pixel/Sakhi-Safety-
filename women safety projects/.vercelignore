@@ -1,0 +1,9 @@
+node_modules
+.git
+.env.local
+.env.*.local
+logs
+*.log
+build_log*.txt
+build_out*.txt
+build.txt
